@@ -14,11 +14,13 @@ I have completed my Python Development internship at TechnoHacks EduTech.This re
   Scissors vs Paper -Scissors wins
   
 📌**taking_input()** 
+
   Takes user input in a while loop
   
   And calls game()
   
 📌**game()**
+
   Compares computer input ans user input and prints who won the game
       
 
