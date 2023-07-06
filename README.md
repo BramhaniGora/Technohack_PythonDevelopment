@@ -29,9 +29,10 @@ I have completed my Python Development internship at TechnoHacks EduTech.This re
 
 📌**Celsius to Fahrenheit**
 
-  **Fahrenheit to Celsius**
+📌**Fahrenheit to Celsius**
   
 📌**taking_input()** 
+
   Asks user to select Celsius to Fahrenheit or Fahrenheit to Celsius
   
   Takes input value from user
